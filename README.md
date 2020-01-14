@@ -2,7 +2,8 @@
 
 * TODO: Correct the links to the javadoc and repo below, then delete this TODO
 
-Javadoc: https://ucsb-cs56-w20.github.io/lab02
+Javadoc: https://ucsb-cs56-w20.github.io/lab02-oliviaclough/
+
 Repo: https://github.com/ucsb-cs56-w20/lab02-oliviaclough
 
 # About this repo
